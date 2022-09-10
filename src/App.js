@@ -13,15 +13,15 @@ export default function App() {
 
       <div className="dataContainer">
         <div className="header">
-        👋 Hey there!
+        👋Olá! Pronto para mandar tchauzinho?👋
         </div>
 
         <div className="bio">
-        I am farza and I worked on self-driving cars so that's pretty cool right? Connect your Ethereum wallet and wave at me!
+        Sou o Paulo Gio e fiz essa página para receber tchauzinhos de pessoas que conectam suas carteiras!
         </div>
 
         <button className="waveButton" onClick={wave}>
-          Wave at Me
+          CLIQUE AQUI PARA MANDAR TCHAUZINHO!
         </button>
       </div>
     </div>

@@ -1,3 +1,7 @@
+body{
+  background-image: url(10743975_jpg.jpg)
+}
+
 .mainContainer {
   display: flex;
   justify-content: center;
@@ -16,19 +20,21 @@
   text-align: center;
   font-size: 32px;
   font-weight: 600;
+  color: aliceblue;
 }
 
 .bio {
   text-align: center;
-  color: gray;
+  color: rgb(254, 253, 253);
   margin-top: 16px;
 }
 
 .waveButton {
   cursor: pointer;
-  margin-top: 16px;
+  font-size: 1rem;
+  margin-top: 26px;
   padding: 8px;
   border: 0;
   border-radius: 5px;
-  
+  background-color: rgb(140, 253, 201);
 }
